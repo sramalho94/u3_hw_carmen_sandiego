@@ -72,6 +72,10 @@ Then, use the clues below to create the appropriate SQL queries to help you find
 
 ![Bye](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FInnocentSeriousChipmunk-max-1mb.gif&f=1&nofb=1)
 
+## Submission
+
+Submit your pull request utilizing the **[PR Guidelines](https://github.com/SEI-R-9-19/template_pull_request)**.
+
 ## Resources
 - [PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/)
 - [PostgreSQL official documentation](http://www.postgresql.org/docs/)
